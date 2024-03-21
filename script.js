@@ -6,7 +6,7 @@
         let name = document.getElementById("name");
 
         if (!age.value || !name.value) {
-          alert("Please fill in all fields.");
+          alert("Please enter valid details.");
           return;
         }
 
